@@ -1,0 +1,102 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "INF395"
+  description: "INF395 - Redes Neuronales y Deep Learning."
+  site-url: "https://inf395.github.io/website/"
+
+  # repo-url: https://github.com/sta210-s22/website
+  # repo-actions: [edit, issue]
+
+  open-graph: true
+
+  # twitter-card:
+  #   creator: "@minebocek"
+  #   image: "images/twitter-card.png"
+
+  page-footer:
+    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2025, Alejandro Veloz"
+    background: "#D9E3E4"
+
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/aavelozb
+        text: "GitHub organization"
+      # - icon: code-square
+      #   href: https://cmgr.oit.duke.edu/containers
+      #   text: "RStudio Containers"
+      # - icon: person-fill
+      #   text: "Sakai"
+      #   menu:
+      #     - text: Discussion forum
+      #       url: https://sakai.duke.edu/portal/site/779c3ebe-3b88-4bcc-bd01-1813e8396a23/tool/13b6446a-a6c6-4222-8cfb-c36d1f70802b
+      #     - text: Gradescope
+      #       url: https://sakai.duke.edu/portal/site/779c3ebe-3b88-4bcc-bd01-1813e8396a23/page/aec742dc-2972-4f02-a35b-1dd3315af889
+      #     - text: Gradebook
+      #       url: https://sakai.duke.edu/portal/site/779c3ebe-3b88-4bcc-bd01-1813e8396a23/tool/69078433-67a6-4054-a2e7-9e6c202ecdc3/
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: course-syllabus.qmd
+        text: Syllabus
+      - href: index.qmd
+        text: Clases
+      - href: course-evaluations.qmd
+        text: Evaluaciones
+      - href: course-team.qmd
+        text: Equipo docente
+      - href: course-links.qmd
+        text: Useful links
+      # - section: "Computing"
+      #   contents:
+      #     - href: computing-access.qmd
+      #       text: Access
+      #     - href: computing-troubleshooting.qmd
+      #       text: Troubleshooting
+      # - section: "Project"
+      #   contents:
+      #     - href: project-description.qmd
+      #       text: Description
+      #     - href: project-tips-resources.qmd
+      #       text: Tips + resources
+      # - section: "Weekly materials"
+      #   contents:
+      #     - href: weeks/week-1.qmd
+      #       text: "Week 1"
+      # - section: "Supplemental notes"
+      #   contents:
+      #     - href: supplemental/slr-derivations.qmd
+      #       text: SLR derivations
+      #     - href: supplemental/model-diagnostics-matrix.qmd
+      #       text: Model diagnostics
+      #     - href: supplemental/mlr-matrix.qmd
+      #       text: MLR matrix notation
+      #     - href: supplemental/log-transformations.qmd
+      #       text: Log transformations
+      #     - href: supplemental/model-selection-criteria.qmd
+      #       text: Model selection criteria
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+editor: visual
