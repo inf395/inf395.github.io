@@ -20,41 +20,41 @@
     ]
   },
   {
+    "objectID": "course-syllabus.html#fechas-importantes",
+    "href": "course-syllabus.html#fechas-importantes",
+    "title": "Syllabus",
+    "section": "Fechas importantes",
+    "text": "Fechas importantes\n\nAgosto 8: Inicio de clases",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
     "objectID": "course-syllabus.html#objetivos",
     "href": "course-syllabus.html#objetivos",
     "title": "Syllabus",
     "section": "Objetivos",
-    "text": "Objetivos\nBy the end of the semester, you will be able to…\n\nanalyze real-world data to answer questions about multivariable relationships.\nfit and evaluate linear and logistic regression models.\nassess whether a proposed model is appropriate and describe its limitations.\nuse Quarto to write reproducible reports and GitHub for version control and collaboration.\ncommunicate results from statistical analyses to a general audience.",
+    "text": "Objetivos\nAl finalizar el semestre, serás capaz de:\n\nComprender los conceptos fundamentales detrás de los principales modelos de redes neuronales.\nResolver problemas de aprendizaje automático utilizando redes neuronales.\nImplementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.\nAnalizar e interpretar los resultados de modelos de redes neuronales.\nComunicar los resultados de proyectos de aprendizaje automático tanto a audiencias técnicas como no técnicas.\nAplicar buenas prácticas para la preparación de datos y la resolución de problemas en flujos de trabajo con redes neuronales.",
     "crumbs": [
       "Syllabus"
     ]
   },
   {
-    "objectID": "course-syllabus.html#textbooks",
-    "href": "course-syllabus.html#textbooks",
+    "objectID": "course-syllabus.html#bibliografía",
+    "href": "course-syllabus.html#bibliografía",
     "title": "Syllabus",
-    "section": "Textbooks",
-    "text": "Textbooks\nWhile there is no official textbook for the course, we will be assigning readings from the following textbooks.\n\nR for Data Science by Garret Grolemund and Hadley Wickham\nIntroduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nTidy modeling with R by Max Kuhn and Julia Silge\nBeyond Multiple Linear Regression by Paul Roback and Julie Legler\n\n\n\nWaiver for extenuating circumstances\nIf there are circumstances that prevent you from completing a lab or homework assignment by the stated due date, you may email Dr. Çetinkaya-Rundel and our head TA Rick Presman before the deadline to waive the late penalty. In your email, you only need to request the waiver; you do not need to provide explanation. This waiver may only be used for once in the semester, so only use it for a truly extenuating circumstance.\nIf there are circumstances that are having a longer-term impact on your academic performance, please let your academic dean know, as they can be a resource. Please let Dr. Çetinkaya-Rundel know if you need help contacting your academic dean.\n\n\nRegrade request policy\nRegrade requests must be submitted on Gradescope within a week of when an assignment is returned. Regrade requests will be considered if there was an error in the grade calculation or if you feel a correct answer was mistakenly marked as incorrect. Requests to dispute the number of points deducted for an incorrect response will not be considered. Note that by submitting a regrade request, the entire question will be graded which could potentially result in losing points.\nNo grades will be changed after the final project presentations.\n\n\nAttendance policy\nResponsibility for class attendance rests with individual students. Since regular and punctual class attendance is expected, students must accept the consequences of failure to attend. More details on Trinity attendance policies are available here.\nHowever, there may be many reasons why you cannot be in class on a given day, particularly with possible extra personal and academic stress and health concerns this semester. All course lectures will be recorded and available to enrolled students after class. If you miss a lecture, make sure to watch the recording and review the material before the next class session. Lab time is dedicated to working on your lab assignments and collaborating with your teammates on your project. If you miss a lab session, make sure to communicate with your team about how you can make up your contribution. Given the technologies we use in the course, this is straightforward to do asynchronously. If you know you’re going to miss a lab session and you’re feeling well enough to do so, notify your teammates ahead of time. Overall these policies are put in place to ensure communication between team members, respect for each others’ time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class.\n\n\nAttendance policy related to COVID symptoms, exposure, or infection\nStudent health, safety, and well-being are the university’s top priorities. To help ensure your well-being and the well-being of those around you, please do not come to class if you have symptoms related to COVID-19, have had a known exposure to COVID-19, or have tested positive for COVID-19. If any of these situations apply to you, you must follow university guidance related to the ongoing COVID-19 pandemic and current health and safety protocols. If you are experiencing any COVID-19 symptoms, contact student health at 919-681-9355. To keep the university community as safe and healthy as possible, you will be expected to follow these guidelines. Please reach out to me and your academic dean as soon as possible if you need to quarantine or isolate so that we can discuss arrangements for your continued participation in class.\n\n\nInclement weather policy\nIn the event of inclement weather or other connectivity-related events that prohibit class attendance, I will notify you how we will make up missed course content and work. This might entail holding the class on Zoom synchronously or watching a recording of the class.\n\n\nPolicy on video recording course content\nAll lectures will be recorded and available on Panopto, so students should not need to create their own recordings of lectures. If you feel that you need record the lectures yourself, you must get permission from me ahead of time and these recordings should be used for personal study only, no for distribution. The full policy on recording of lectures falls under the Duke University Policy on Intellectual Property Rights, available at provost.duke.edu/sites/default/files/FHB_App_P.pdf. Unauthorized distribution is a cause for disciplinary action by the Judicial Board.",
+    "section": "Bibliografía",
+    "text": "Bibliografía\nAunque existen muchos recursos excelentes producidos por diversos investigadores en las últimas décadas, asignaremos lecturas de los siguientes libros de texto.\n\nPattern Recognition and Machine Learning, Christopher Bishop (2006).",
     "crumbs": [
       "Syllabus"
     ]
   },
   {
-    "objectID": "course-syllabus.html#learning-during-a-pandemic",
-    "href": "course-syllabus.html#learning-during-a-pandemic",
+    "objectID": "course-syllabus.html#políticas-del-curso",
+    "href": "course-syllabus.html#políticas-del-curso",
     "title": "Syllabus",
-    "section": "Learning during a pandemic",
-    "text": "Learning during a pandemic\nI want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don’t hesitate to ask.\n\nYou never owe me personal information about your health (mental or physical) but you’re always welcome to talk to me. If I can’t help, I likely know someone who can.\nI want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.\n\nNote: If you’ve read this far in the syllabus, email me a picture of your pet if you have one or your favourite meme!",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "course-syllabus.html#important-dates",
-    "href": "course-syllabus.html#important-dates",
-    "title": "Syllabus",
-    "section": "Important dates",
-    "text": "Important dates\n\nJanuary 5: Classes begin (Monday meeting schedule)\nJanuary 6: Regular class meeting schedule begins\nJanuary 17: Martin Luther King, Jr. Day holiday, no classes are held\nJanuary 19: Drop/add ends\nMarch 7-11: Spring recess, no classes are held\nMarch 23: Last day to withdraw with W\nApril 20: Classes end\nApril 21-24: Reading period\nApril 25-30: Final exams\n\nClick here for the full Duke academic calendar.",
+    "section": "Políticas del Curso",
+    "text": "Políticas del Curso\n\nIntegridad Académica\nSe espera que los estudiantes actúen con honestidad e integridad. No mentir, hacer trampa ni plagiar en trabajos académicos o no académicos. Todo trabajo presentado debe ser propio, a menos que se permita expresamente la colaboración. Cita adecuadamente todas las fuentes utilizadas, incluyendo código tomado de recursos en línea. El material no citado o mal referenciado puede considerarse plagio.\n\n\nUso de Herramientas de Inteligencia Artificial (IA)\nDado que este curso se centra en la inteligencia artificial, el uso de herramientas y recursos de IA está permitido y se fomenta. Sin embargo, debes dejar en claro cuándo y cómo usaste herramientas o modelos de IA en tus tareas, proyectos o evaluaciones. Documenta adecuadamente cualquier contenido o código generado por IA, y especifica qué partes fueron producidas con su ayuda. Se espera total transparencia para mantener la integridad académica: no revelar el uso de IA puede considerarse una violación de las políticas del curso.\n\n\nColaboración\nSalvo que expresamente se indique trabajo en grupo, todas las tareas deben realizarse de forma individual. Se permite la discusión general con compañeros, pero no compartir respuestas detalladas ni código. Para proyectos en equipo, colabora únicamente dentro de tu grupo y no compartas soluciones detalladas o código con otros equipos.\n\n\nUso de Código y Recursos en Línea\nPuedes consultar y utilizar recursos en línea a menos que se indique lo contrario. Todo código o material tomado de fuentes externas debe ser citado correctamente. No se permite compartir código directamente con otros compañeros ni con otros equipos, salvo en asignaciones grupales designadas.\n\n\nEntrega Tardía\nLas tareas pueden entregarse hasta 3 días tarde, con una penalización del 5% por cada período de 24 horas de retraso. Se podrá eliminar la calificación de una tarea y un laboratorio para acomodar circunstancias imprevistas. Las actividades de aplicación no aceptan entregas tardías. Las políticas específicas sobre entregas tardías para exámenes y proyectos se comunicarán por separado.\nTienes derecho a un total de 6 “días de retraso” por semestre para entregar trabajos fuera del plazo sin penalización, pensados para situaciones significativas o imprevistas. Si tienes problemas a largo plazo que afecten tu desempeño, informa al profesor/a.\n\n\nSolicitudes de Revisión de Calificaciones\nLas solicitudes de revisión deben hacerse dentro de la semana posterior a la devolución de la calificación. Solo se considerarán solicitudes por errores de calificación o cálculo. Toda la pregunta será revisada nuevamente, lo que puede implicar aumento o disminución de puntos. No se realizarán cambios de calificaciones después de la entrega final de proyectos o tareas.\n\n\nAsistencia\nLos estudiantes son responsables de asistir a clase; se espera una asistencia regular. Si faltas, revisa las grabaciones y materiales antes de la siguiente sesión. Para laboratorios o trabajo en grupo, comunícate con tu equipo para asegurar que tus responsabilidades queden cubiertas. Si prevés una ausencia, avisa a tu equipo para coordinar las contribuciones correspondientes.",
     "crumbs": [
       "Syllabus"
     ]
@@ -189,7 +189,7 @@
     "href": "course-evaluations.html",
     "title": "Evaluaciones",
     "section": "",
-    "text": "Most of you will need help at some point and we want to make sure you can identify when that is without getting too frustrated and feel comfortable seeking help.",
+    "text": "If you have a question during lecture or lab, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.",
     "crumbs": [
       "Evaluaciones"
     ]
@@ -198,8 +198,8 @@
     "objectID": "course-evaluations.html#lectures-and-labs",
     "href": "course-evaluations.html#lectures-and-labs",
     "title": "Evaluaciones",
-    "section": "Lectures and labs",
-    "text": "Lectures and labs\nIf you have a question during lecture or lab, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.",
+    "section": "",
+    "text": "If you have a question during lecture or lab, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.",
     "crumbs": [
       "Evaluaciones"
     ]
@@ -282,6 +282,16 @@
     "text": "Assistance with Zoom or Sakai\nFor technical help with Sakai or Zoom, contact the Duke OIT Service Desk at oit.duke.edu/help. You can also access the self-service help documentation for Zoom here and for Sakai here.\nNote that we will be making minimal use of Sakai in this course (primarily for announcements and grade book). All assignment submission and discussion will take place on GitHub instead.\nZoom will be used for online office hours as well as as a backup option should we need to hold the course online instead of in person.",
     "crumbs": [
       "Evaluaciones"
+    ]
+  },
+  {
+    "objectID": "course-team.html",
+    "href": "course-team.html",
+    "title": "Equipo docente",
+    "section": "",
+    "text": "Prof. Dr. Alejandro Veloz alejandro.veloz@usm.cl",
+    "crumbs": [
+      "Equipo docente"
     ]
   },
   {
