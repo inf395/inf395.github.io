@@ -3,12 +3,14 @@ title: "Syllabus"
 ---
 
 <!-- [**Click here**](/documents/sta210-s22-syllabus.pdf "PDF of syllabus") **to download a PDF copy of the syllabus.** -->
+
+````{=html}
 <!--
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_KN97j30ST4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 ``` -->
-
+````
 
 ## Información de clases y ayudantías
 
@@ -20,6 +22,7 @@ title: "Syllabus"
 
 -   **Agosto 8:** Inicio de clases
 
+```{=html}
 <!-- ## Objectives
 
 By the end of the semester, you will be able to:
@@ -30,17 +33,18 @@ By the end of the semester, you will be able to:
 - Analyze and interpret the results of neural network models.
 - Communicate the outcomes of machine learning projects to both technical and non-technical audiences.
 - Apply best practices for preparing data and troubleshooting models in neural network workflows. -->
+```
 
 ## Objetivos
 
 Al finalizar el semestre, serás capaz de:
 
-- Comprender los conceptos fundamentales detrás de los principales modelos de redes neuronales.
-- Resolver problemas de aprendizaje automático utilizando redes neuronales.
-- Implementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.
-- Analizar e interpretar los resultados de modelos de redes neuronales.
-- Comunicar los resultados de proyectos de aprendizaje automático tanto a audiencias técnicas como no técnicas.
-- Aplicar buenas prácticas para la preparación de datos y la resolución de problemas en flujos de trabajo con redes neuronales.
+-   Comprender los conceptos fundamentales detrás de los principales modelos de redes neuronales.
+-   Resolver problemas de aprendizaje automático utilizando redes neuronales.
+-   Implementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.
+-   Analizar e interpretar los resultados de modelos de redes neuronales.
+-   Comunicar los resultados de proyectos de aprendizaje automático tanto a audiencias técnicas como no técnicas.
+-   Aplicar buenas prácticas para la preparación de datos y la resolución de problemas en flujos de trabajo con redes neuronales.
 
 ## Bibliografía
 
@@ -52,11 +56,11 @@ Aunque existen muchos recursos excelentes producidos por diversos investigadores
 
 ### Integridad Académica
 
-Se espera que los estudiantes actúen con honestidad e integridad. No mentir, hacer trampa ni plagiar en trabajos académicos o no académicos. Todo trabajo presentado debe ser propio, a menos que se permita expresamente la colaboración. Cita adecuadamente todas las fuentes utilizadas, incluyendo código tomado de recursos en línea. El material no citado o mal referenciado puede considerarse plagio.
+Se espera que los estudiantes actúen con honestidad e integridad. No mentir, hacer trampa ni plagiar en trabajos académicos o no académicos. Todo trabajo presentado debe ser propio, a menos que se permita expresamente la colaboración. Debe citar adecuadamente todas las fuentes utilizadas, incluyendo código tomado de recursos en línea. El material no citado o mal referenciado \*\*puede considerarse plagio\*\*.
 
 ### Uso de Herramientas de Inteligencia Artificial (IA)
 
-Dado que este curso se centra en la inteligencia artificial, el uso de herramientas y recursos de IA está permitido y se fomenta. Sin embargo, debes dejar en claro cuándo y cómo usaste herramientas o modelos de IA en tus tareas, proyectos o evaluaciones. Documenta adecuadamente cualquier contenido o código generado por IA, y especifica qué partes fueron producidas con su ayuda. Se espera total transparencia para mantener la integridad académica: no revelar el uso de IA puede considerarse una violación de las políticas del curso.
+Dado que este curso se centra en la inteligencia artificial, el uso de herramientas y recursos de IA está permitido y se fomenta. Sin embargo, se debe explicitar cuándo y cómo se uso herramientas o modelos de IA en tus tareas, proyectos o evaluaciones. Documenta adecuadamente cualquier contenido o código generado por IA, y especifica qué partes fueron producidas con su ayuda. Se espera total transparencia para mantener la integridad académica: no revelar el uso de IA puede considerarse una violación de las políticas del curso.
 
 ### Colaboración
 
@@ -80,11 +84,10 @@ Las solicitudes de revisión deben hacerse dentro de la semana posterior a la de
 
 Los estudiantes son responsables de asistir a clase; se espera una asistencia regular. Si faltas, revisa las grabaciones y materiales antes de la siguiente sesión. Para laboratorios o trabajo en grupo, comunícate con tu equipo para asegurar que tus responsabilidades queden cubiertas. Si prevés una ausencia, avisa a tu equipo para coordinar las contribuciones correspondientes.
 
+````{=html}
 <!-- 
 ```{=html}
 ``` 
 *Note:* If you've read this far in the syllabus, email me a picture of your pet if you have one or your favourite meme!
 -->
-
-
-
+````
