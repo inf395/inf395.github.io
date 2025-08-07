@@ -16,11 +16,19 @@ title: "Syllabus"
 
 |         | Día     | Hora          | Lugar |
 |---------|---------|---------------|-------|
-| Cátedra | Viernes | 14:40 - 17:15 | F106  |
+| Cátedra | Viernes | 14:40 - 17:15 | P407  |
 
 ## Fechas importantes
 
 -   **Agosto 8:** Inicio de clases
+-   **Agosto 22:** Envío temas de proyectos
+-   \color{red}**Septiembre 4:** Clases suspendidas
+-   \color{red}**Septiembre 19:** Vacaciones de fiestas patrias
+-   **Octubre 3:** Entrega parcial de proyectos (escrito)
+-   \color{red}**Octubre 10:** Semana sansana
+-   **Noviembre 14:** Entrega de proyectos (escrito)
+-   **Noviembre 21:** Presentaciones estudiantes
+-   **Noviembre 28:** Presentaciones estudiantes
 
 ```{=html}
 <!-- ## Objectives
