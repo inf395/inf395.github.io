@@ -22,6 +22,7 @@ title: "Syllabus"
 
 -   **Agosto 8:** Inicio de clases
 
+```{=html}
 <!-- ## Objectives
 
 By the end of the semester, you will be able to:
@@ -32,6 +33,7 @@ By the end of the semester, you will be able to:
 - Analyze and interpret the results of neural network models.
 - Communicate the outcomes of machine learning projects to both technical and non-technical audiences.
 - Apply best practices for preparing data and troubleshooting models in neural network workflows. -->
+```
 
 ## Objetivos
 

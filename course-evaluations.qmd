@@ -3,7 +3,7 @@ title: "Evaluaciones"
 ---
 
 ## Lectures and labs
-
+<!-- 
 If you have a question during lecture or lab, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.
 
 ## Office hours
@@ -60,4 +60,4 @@ For technical help with Sakai or Zoom, contact the Duke OIT Service Desk at [oit
 
 Note that we will be making minimal use of Sakai in this course (primarily for announcements and grade book). All assignment submission and discussion will take place on GitHub instead.
 
-Zoom will be used for online office hours as well as as a backup option should we need to hold the course online instead of in person.
+Zoom will be used for online office hours as well as as a backup option should we need to hold the course online instead of in person. -->
