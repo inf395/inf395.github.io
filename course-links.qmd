@@ -3,7 +3,7 @@ title: "Useful links"
 ---
 
 |  |  |
-|----------------------|--------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | RStudio containers | 🔗 on [Duke Container Manager](https://cmgr.oit.duke.edu/containers) |
 | Course GitHub organization | 🔗 on [GitHub](https://github.com/sta210-s22) |
 | Discussion forum | 🔗 on [Sakai](https://sakai.duke.edu/portal/site/779c3ebe-3b88-4bcc-bd01-1813e8396a23/tool/13b6446a-a6c6-4222-8cfb-c36d1f70802b) |
