@@ -2,12 +2,14 @@
 title: "Evaluaciones"
 ---
 
-## Evaluaciones
-
 El curso contempla las siguientes evaluaciones:
 
-- 4 tareas
-- Un proyecto
+-   4 tareas
+-   Un proyecto
+-   Una prueba final
+
+Si cada tarea tiene nota superior a 
+El promedio del curso 
 
 ## Tareas
 

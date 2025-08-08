@@ -21,27 +21,15 @@ title: "Syllabus"
 ## Fechas importantes
 
 -   **Agosto 8:** Inicio de clases
--   **Agosto 22:** Envío temas de proyectos
--   \color{red}**Septiembre 4:** Clases suspendidas
--   \color{red}**Septiembre 19:** Vacaciones de fiestas patrias
--   **Octubre 3:** Entrega parcial de proyectos (escrito)
--   \color{red}**Octubre 10:** Semana sansana
--   **Noviembre 14:** Entrega de proyectos (escrito)
--   **Noviembre 21:** Presentaciones estudiantes
--   **Noviembre 28:** Presentaciones estudiantes
+-   <span class="my-green"><strong>Agosto 22:</strong> Envío temas de proyectos</span>
+-   <span class="my-red"><strong>Septiembre 4:</strong> Clases suspendidas</span>
+-   <span class="my-red"><strong>Septiembre 19:</strong> Vacaciones de fiestas patrias</span>
+-   <span class="my-green"><strong>Octubre 3:</strong> Entrega parcial de proyectos (escrito)</span>
+-   <span class="my-red"><strong>Octubre 10:</strong> Semana sansana</span>
+-   <span class="my-green"><strong>Noviembre 14:</strong> Entrega final de proyectos (escrito)</span>
+-   <span class="my-green"><strong>Noviembre 21:</strong> Presentaciones estudiantes</span>
+-   <span class="my-green"><strong>Noviembre 28:</strong> Presentaciones estudiantes</span>
 
-```{=html}
-<!-- ## Objectives
-
-By the end of the semester, you will be able to:
-
-- Understand the fundamental concepts behind the main neural network models.
-- Solve a variety of machine learning problems using neural networks.
-- Implement and train neural networks with popular software tools such as scikit-learn, PyTorch, and Keras.
-- Analyze and interpret the results of neural network models.
-- Communicate the outcomes of machine learning projects to both technical and non-technical audiences.
-- Apply best practices for preparing data and troubleshooting models in neural network workflows. -->
-```
 
 ## Objetivos
 

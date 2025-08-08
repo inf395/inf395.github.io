@@ -4,8 +4,28 @@ tbl-colwidths: [5,10,30]
 ---
 
 ::: column-screen-inset-right
-| Unidad | Tópico | Material |
+| Fecha | Tópico | Material |
 |:----------------------:|------------------------|------------------------|
-| 1 | Introducción | [🖥️](/slides/lab-0.html "Lab slides"){aria-label="Lab 0 slides"} |
-|  |  |  |
+| 08-08 | Introducción | [🖥️](/recursos/01-intro-ml-dl.pdf "slides"){aria-label="slides 01"} |
+| | Modelos lineales para regresión y clasificación | |
+| | Red neuronal feedforward | |
+| | Backpropagation / learning algorithms | |
+| | Redes neuronales convolucionales | |
+| | Redes Difusas | |
+| | Graph neural networks | |
+| | Redes neuronales recurrentes | |
+| | Transformers | |
+| | Procesos Gaussianos | |
+| | Transfer learning | |
+| | Redes KAN | |
 :::
+
+
+
+
+
+
+
+
+
+

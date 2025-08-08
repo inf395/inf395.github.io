@@ -24,7 +24,7 @@
     "href": "course-syllabus.html#fechas-importantes",
     "title": "Syllabus",
     "section": "Fechas importantes",
-    "text": "Fechas importantes\n\nAgosto 8: Inicio de clases\nAgosto 22: Envío temas de proyectos\nSeptiembre 4: Clases suspendidas\nSeptiembre 19: Vacaciones de fiestas patrias\nOctubre 3: Entrega parcial de proyectos (escrito)\nOctubre 10: Semana sansana\nNoviembre 14: Entrega de proyectos (escrito)\nNoviembre 21: Presentaciones estudiantes\nNoviembre 28: Presentaciones estudiantes",
+    "text": "Fechas importantes\n\nAgosto 8: Inicio de clases\nAgosto 22: Envío temas de proyectos\nSeptiembre 4: Clases suspendidas\nSeptiembre 19: Vacaciones de fiestas patrias\nOctubre 3: Entrega parcial de proyectos (escrito)\nOctubre 10: Semana sansana\nNoviembre 14: Entrega final de proyectos (escrito)\nNoviembre 21: Presentaciones estudiantes\nNoviembre 28: Presentaciones estudiantes",
     "crumbs": [
       "Syllabus"
     ]
@@ -144,17 +144,7 @@
     "href": "course-evaluations.html",
     "title": "Evaluaciones",
     "section": "",
-    "text": "El curso contempla las siguientes evaluaciones:\n\n4 tareas\nUn proyecto",
-    "crumbs": [
-      "Evaluaciones"
-    ]
-  },
-  {
-    "objectID": "course-evaluations.html#evaluaciones",
-    "href": "course-evaluations.html#evaluaciones",
-    "title": "Evaluaciones",
-    "section": "",
-    "text": "El curso contempla las siguientes evaluaciones:\n\n4 tareas\nUn proyecto",
+    "text": "El curso contempla las siguientes evaluaciones:\nSi cada tarea tiene nota superior a El promedio del curso",
     "crumbs": [
       "Evaluaciones"
     ]
@@ -201,7 +191,7 @@
     "href": "index.html",
     "title": "INF395 - Redes neuronales y Deep Learning",
     "section": "",
-    "text": "Unidad\nTópico\nMaterial\n\n\n\n\n1\nIntroducción\n🖥️",
+    "text": "Fecha\nTópico\nMaterial\n\n\n\n\n08-08\nIntroducción\n🖥️\n\n\n\nModelos lineales para regresión y clasificación\n\n\n\n\nRed neuronal feedforward\n\n\n\n\nBackpropagation / learning algorithms\n\n\n\n\nRedes neuronales convolucionales\n\n\n\n\nRedes Difusas\n\n\n\n\nGraph neural networks\n\n\n\n\nRedes neuronales recurrentes\n\n\n\n\nTransformers\n\n\n\n\nProcesos Gaussianos\n\n\n\n\nTransfer learning\n\n\n\n\nRedes KAN",
     "crumbs": [
       "Clases"
     ]

@@ -55,3 +55,15 @@ $input-bg: #242424;
   background-size: 2em;
   background-position: 0.5em 0.5em;
 }
+
+$my-red:   #ff7675;
+$my-gray:  #b0b0b0;
+$my-green: #81c784;
+
+.my-red   { color: $my-red; }
+.my-gray  { color: $my-gray; }
+.my-green { color: $my-green; }
+
+.bg-red   { background-color: $my-red; color: white; }
+.bg-gray  { background-color: $my-gray; color: white; }
+.bg-green { background-color: $my-green; color: white; }
