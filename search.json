@@ -164,7 +164,7 @@
     "href": "course-evaluations.html#proyectos",
     "title": "Evaluaciones",
     "section": "Proyectos",
-    "text": "Proyectos\nLos proyectos deben desarrollarse durante el transcurso del semestre (no al final). Los hitos relacionados a los proyectos están disponibles en el enlace.\nPara las presentaciones finales no puede hacer uso de sus “días de retraso” disponibles.\nAl final del semestre deberá hacer una presentación de 15 min, entregar un informe escrito y poner a disposición del curso un video explicativo del proyecto, el informe escrito y la implementación realizada.\nLos temas son a elección de los estudiantes. Algunos temas posibles son:\n\nAnálisis causal usando Machine Learning, contrastive learning, …\nNLP / knowledge graph usando OMIM.\nAnálisis de redes cerebrales en ASD (Autism Spectrum Disorders) - fMRI.\nImplementación de una red difusa profunda.",
+    "text": "Proyectos\nLos proyectos deben desarrollarse durante el transcurso del semestre (no al final). Los hitos relacionados a los proyectos están disponibles en el enlace.\nPara las presentaciones finales no puede hacer uso de sus “días de retraso” disponibles.\nAl final del semestre deberá hacer una presentación de 15 min, entregar un informe escrito y poner a disposición del curso un video explicativo del proyecto, el informe escrito y la implementación realizada.\nLos temas son a elección de los estudiantes. Algunos temas posibles son:\n\nAnálisis causal usando Machine Learning, contrastive learning, …\nManifold learning\nNLP / knowledge graph usando OMIM.\nAnálisis de redes cerebrales en ASD (Autism Spectrum Disorders) - fMRI.\nImplementación de una red difusa profunda.",
     "crumbs": [
       "Evaluaciones"
     ]
