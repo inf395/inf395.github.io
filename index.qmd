@@ -20,7 +20,7 @@ tbl-colwidths: [5,20,10,10,10]
 | 24-10 | Transformers |  |  |  |
 | 31-10 | Procesos Gaussianos |  |  |  |
 | 07-11 | Transfer learning |  |  |  |
-| 14-11 | Redes KAN |  |  |  |
+| 14-11 | Redes KAN |  | [<strong>Entrega escrito</strong>]{.my-green} |  |
 | [<strong>21-11</strong>]{.my-green} |  |  | [<strong>Presentaciones de alumnos</strong>]{.my-green} |  |
 | [<strong>28-11</strong>]{.my-green} |  |  | [<strong>Presentaciones de alumnos</strong>]{.my-green} |  |
 :::

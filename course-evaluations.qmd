@@ -35,7 +35,7 @@ Al final del semestre deberá hacer una presentación de 15 min, entregar un inf
 Los temas son a elección de los estudiantes. Algunos temas posibles son:
 
 -   Análisis causal usando Machine Learning, contrastive learning, ...
--   Manifold learning
+-   Manifold learning.
 -   NLP / knowledge graph usando [OMIM](https://www.omim.org/).
 -   Análisis de redes cerebrales en ASD (Autism Spectrum Disorders) - fMRI.
 -   Implementación de una red difusa profunda.
