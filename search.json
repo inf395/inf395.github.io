@@ -4,7 +4,7 @@
     "href": "course-syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Día\nHora\nLugar\n\n\n\n\nCátedra\nViernes\n14:40 - 17:15\nF106",
+    "text": "Día\nHora\nLugar\n\n\n\n\nCátedra\nViernes\n14:40 - 17:15\nP407",
     "crumbs": [
       "Syllabus"
     ]
@@ -14,7 +14,7 @@
     "href": "course-syllabus.html#información-de-clases-y-ayudantías",
     "title": "Syllabus",
     "section": "",
-    "text": "Día\nHora\nLugar\n\n\n\n\nCátedra\nViernes\n14:40 - 17:15\nF106",
+    "text": "Día\nHora\nLugar\n\n\n\n\nCátedra\nViernes\n14:40 - 17:15\nP407",
     "crumbs": [
       "Syllabus"
     ]
@@ -24,7 +24,7 @@
     "href": "course-syllabus.html#fechas-importantes",
     "title": "Syllabus",
     "section": "Fechas importantes",
-    "text": "Fechas importantes\n\nAgosto 8: Inicio de clases",
+    "text": "Fechas importantes\n\nAgosto 8: Inicio de clases\nAgosto 22: Envío temas de proyectos\nSeptiembre 4: Clases suspendidas\nSeptiembre 19: Vacaciones de fiestas patrias\nOctubre 3: Entrega parcial de proyectos (escrito)\nOctubre 10: Semana sansana\nNoviembre 14: Entrega final de proyectos (escrito)\nNoviembre 21: Presentaciones estudiantes\nNoviembre 28: Presentaciones estudiantes",
     "crumbs": [
       "Syllabus"
     ]
@@ -134,9 +134,39 @@
     "href": "course-team.html",
     "title": "Equipo docente",
     "section": "",
-    "text": "**Profesor:** Dr. Alejandro Veloz - alejandro.veloz@usm.cl\n\n**Horario de atención:** Viernes 13:00 (solicitud vía correo)\n\n\n\n**Ayudante:**\n\n**Horario de atención:**",
+    "text": "Profesor: Dr. Alejandro Veloz - alejandro.veloz@usm.cl\n\nHorario de atención: Viernes 13:00 (solicitud vía correo)\n\n\n\nAyudante:\n\nHorario de atención:",
     "crumbs": [
       "Equipo docente"
+    ]
+  },
+  {
+    "objectID": "course-evaluations.html",
+    "href": "course-evaluations.html",
+    "title": "Evaluaciones",
+    "section": "",
+    "text": "El curso contempla las siguientes evaluaciones:\nSi cada tarea tiene nota superior a El promedio del curso",
+    "crumbs": [
+      "Evaluaciones"
+    ]
+  },
+  {
+    "objectID": "course-evaluations.html#tareas",
+    "href": "course-evaluations.html#tareas",
+    "title": "Evaluaciones",
+    "section": "Tareas",
+    "text": "Tareas",
+    "crumbs": [
+      "Evaluaciones"
+    ]
+  },
+  {
+    "objectID": "course-evaluations.html#proyectos",
+    "href": "course-evaluations.html#proyectos",
+    "title": "Evaluaciones",
+    "section": "Proyectos",
+    "text": "Proyectos",
+    "crumbs": [
+      "Evaluaciones"
     ]
   },
   {
@@ -161,7 +191,7 @@
     "href": "index.html",
     "title": "INF395 - Redes neuronales y Deep Learning",
     "section": "",
-    "text": "Unidad\nTópico\nMaterial\n\n\n\n\n1\nIntroducción\n🖥️",
+    "text": "Fecha\nTópico\nMaterial\n\n\n\n\n08-08\nIntroducción\n🖥️\n\n\n\nModelos lineales para regresión y clasificación\n\n\n\n\nRed neuronal feedforward\n\n\n\n\nBackpropagation / learning algorithms\n\n\n\n\nRedes neuronales convolucionales\n\n\n\n\nRedes Difusas\n\n\n\n\nGraph neural networks\n\n\n\n\nRedes neuronales recurrentes\n\n\n\n\nTransformers\n\n\n\n\nProcesos Gaussianos\n\n\n\n\nTransfer learning\n\n\n\n\nRedes KAN",
     "crumbs": [
       "Clases"
     ]
