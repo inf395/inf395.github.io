@@ -5,50 +5,46 @@ tbl-colwidths: [5,20,10,10,10]
 
 ::: column-screen-inset-right
 | Fecha | Tópico | Material | Proyectos | Tareas |
-|:----------------------:|------------------------|----------------|----------------|----------------|
-| 08-08 | Introducción | [🖥️](/recursos/01-intro-ml-dl.pdf "slides"){aria-label="slides 01"} | | |
-| 15-08 | Modelos lineales para regresión y clasificación | | | |
-| <span class="my-green"><strong>22-08</strong></span> | Red neuronal feedforward | | <span class="my-green"><strong>Envío temas</strong></span> | |
-| <span class="my-blue"><strong>29-08</strong></span> | Backpropagation / learning algorithms | | | <span class="my-blue"><strong>Tarea 1</strong></span> |
-| <span class="my-red"><strong>05-09</strong></span> | <span class="my-red"><strong>Clase suspendida</strong></span> | | | |
-| <span class="my-blue"><strong>12-09</strong></span> | Redes neuronales convolucionales | | | <span class="my-blue"><strong>Entrega Tarea 1 <br> Tarea 2</strong></span> |
-| <span class="my-red"><strong>19-09</strong></span> | <span class="my-red"><strong>Vacaciones de fiestas patrias</strong></span> | | | |
-| 26-09 | Redes Difusas | | | |
-| <span class="my-green"><strong>03-10</strong></span> | Graph neural networks | | <span class="my-green"><strong>Entrega parcial</strong></span> | |
-| <span class="my-red"><strong>10-10</strong></span> | <span class="my-red"><strong>Semana sansana</strong></span> | | | |
-| 17-10 | Redes neuronales recurrentes | | | |
-| 24-10 | Transformers | | | |
-| 31-10 | Procesos Gaussianos | | | |
-| 07-11 | Transfer learning | | | |
-| 14-11 | Redes KAN | | | |
-| <span class="my-green"><strong>21-11</strong></span> | | | <span class="my-green"><strong>Presentaciones de alumnos</strong></span> | |
-| <span class="my-green"><strong>28-11</strong></span> | | | <span class="my-green"><strong>Presentaciones de alumnos</strong></span> | | 
+|:-------------:|---------------|---------------|---------------|---------------|
+| 08-08 | Introducción | [🖥️](/recursos/01-intro-ml-dl.pdf "slides"){aria-label="slides 01"} |  |  |
+| 15-08 | Modelos lineales para regresión y clasificación |  |  |  |
+| [<strong>22-08</strong>]{.my-green} | Red neuronal feedforward |  | [<strong>Envío temas</strong>]{.my-green} |  |
+| [<strong>29-08</strong>]{.my-blue} | Backpropagation / learning algorithms |  |  | [<strong>Tarea 1</strong>]{.my-blue} |
+| [<strong>05-09</strong>]{.my-red} | [<strong>Clase suspendida</strong>]{.my-red} |  |  |  |
+| [<strong>12-09</strong>]{.my-blue} | Redes neuronales convolucionales |  |  | [<strong>Entrega Tarea 1 <br> Tarea 2</strong>]{.my-blue} |
+| [<strong>19-09</strong>]{.my-red} | [<strong>Vacaciones de fiestas patrias</strong>]{.my-red} |  |  |  |
+| 26-09 | Redes Difusas |  |  |  |
+| [<strong>03-10</strong>]{.my-green} | Graph neural networks |  | [<strong>Entrega parcial</strong>]{.my-green} |  |
+| [<strong>10-10</strong>]{.my-red} | [<strong>Semana sansana</strong>]{.my-red} |  |  |  |
+| 17-10 | Redes neuronales recurrentes |  |  |  |
+| 24-10 | Transformers |  |  |  |
+| 31-10 | Procesos Gaussianos |  |  |  |
+| 07-11 | Transfer learning |  |  |  |
+| 14-11 | Redes KAN |  |  |  |
+| [<strong>21-11</strong>]{.my-green} |  |  | [<strong>Presentaciones de alumnos</strong>]{.my-green} |  |
+| [<strong>28-11</strong>]{.my-green} |  |  | [<strong>Presentaciones de alumnos</strong>]{.my-green} |  |
 :::
 
-<!-- 08-08-2025	Introducción		
-15-08-2025	Modelos lineales para regresión y clasificación		
-22-08-2025	Red neuronal feedforward	Definición tema	T1
-29-08-2025	Backpropagation / learning algorithms		
-05-09-2025	Clases suspendidas		
-12-09-2025	Redes neuronales convolucionales		T2
-19-09-2025			
-26-09-2025	Redes Difusas		
-03-10-2025	Redes neuronales recurrentes	Entrega parcial	T3
-10-10-2025	Semana sansana		
-17-10-2025	Transformers		
-24-10-2025	Procesos Gaussianos		
-31-10-2025	Transfer learning		
-07-11-2025	Redes KAN		
-14-11-2025		Entrega final	T4
-21-11-2025	Presentaciones de proyectos		
-28-11-2025	Presentaciones de proyectos		
-05-12-2025	Examen - Notas SIGA		
-12-12-2025			
-19-12-2025			
-26-12-2025			 -->
-
-
-
-
-
-
+```{=html}
+<!-- 08-08-2025 Introducción        
+15-08-2025  Modelos lineales para regresión y clasificación     
+22-08-2025  Red neuronal feedforward    Definición tema T1
+29-08-2025  Backpropagation / learning algorithms       
+05-09-2025  Clases suspendidas      
+12-09-2025  Redes neuronales convolucionales        T2
+19-09-2025          
+26-09-2025  Redes Difusas       
+03-10-2025  Redes neuronales recurrentes    Entrega parcial T3
+10-10-2025  Semana sansana      
+17-10-2025  Transformers        
+24-10-2025  Procesos Gaussianos     
+31-10-2025  Transfer learning       
+07-11-2025  Redes KAN       
+14-11-2025      Entrega final   T4
+21-11-2025  Presentaciones de proyectos     
+28-11-2025  Presentaciones de proyectos     
+05-12-2025  Examen - Notas SIGA     
+12-12-2025          
+19-12-2025          
+26-12-2025           -->
+```
