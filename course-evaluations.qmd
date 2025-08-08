@@ -9,12 +9,12 @@ El curso contempla las siguientes evaluaciones:
 
 [Si cumple alguna de las siguientes condiciones, deberá además rendir una <strong>prueba final:</strong>]{.my-red}
 
-- Su promedio de tareas es igual o inferior a 55.
-- Su nota de proyecto es igual o inferior a 55.
-- Su porcentaje de asistencia es inferior al 70%.
-- Poseer alguna sanción relacionada con las [políticas del curso](course-syllabus.html).
+-   Su promedio de tareas es igual o inferior a 55.
+-   Su nota de proyecto es igual o inferior a 55.
+-   Su porcentaje de asistencia es inferior al 70%.
+-   Poseer alguna sanción relacionada con las [políticas del curso](course-syllabus.html).
 
-En ese caso las ponderaciones para el cálculo del promedio final serán: Tareas (20%), proyecto (40%), prueba final (40%). 
+En ese caso las ponderaciones para el cálculo del promedio final serán: Tareas (20%), proyecto (40%), prueba final (40%).
 
 ## Tareas
 
@@ -30,11 +30,11 @@ Los proyectos deben desarrollarse durante el transcurso del semestre (no al fina
 
 Para las presentaciones finales no puede hacer uso de sus ["días de retraso"](course-syllabus.html) disponibles.
 
-Al final del semestre deberá hacer una presentación de 15 min, entregar un informe escrito y poner a disposición del curso un video explicativo del proyecto, el informe escrito y la implementación realizada. 
+Al final del semestre deberá hacer una presentación de 15 min, entregar un informe escrito y poner a disposición del curso un video explicativo del proyecto, el informe escrito y la implementación realizada.
 
 Los temas son a elección de los estudiantes. Algunos temas posibles son:
 
-- Análisis causal usando Machine Learning, contrastive learning, ...
-- NLP / knowledge graph usando [OMIM](https://www.omim.org/).
-- Análisis de redes cerebrales en ASD (Autism Spectrum Disorders) - fMRI.
-- Implementación de una red difusa profunda.
+-   Análisis causal usando Machine Learning, contrastive learning, ...
+-   NLP / knowledge graph usando [OMIM](https://www.omim.org/).
+-   Análisis de redes cerebrales en ASD (Autism Spectrum Disorders) - fMRI.
+-   Implementación de una red difusa profunda.
