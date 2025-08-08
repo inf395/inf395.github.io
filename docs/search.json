@@ -34,7 +34,7 @@
     "href": "course-syllabus.html#objetivos",
     "title": "Syllabus",
     "section": "Objetivos",
-    "text": "Objetivos\nAl finalizar el semestre, serás capaz de:\n\nComprender los conceptos fundamentales detrás de los principales modelos de redes neuronales.\nResolver problemas de aprendizaje automático utilizando redes neuronales.\nImplementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.\nAnalizar e interpretar los resultados de modelos de redes neuronales.\nComunicar los resultados de proyectos de aprendizaje automático tanto a audiencias técnicas como no técnicas.\nAplicar buenas prácticas para la preparación de datos y la resolución de problemas en flujos de trabajo con redes neuronales.",
+    "text": "Objetivos\nAl finalizar el semestre, será capaz de:\n\nComprender los conceptos fundamentales detrás de los principales modelos de redes neuronales y deep learning.\nResolver problemas de aprendizaje automático utilizando redes neuronales.\nImplementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.\nAnalizar e interpretar los resultados de modelos de redes neuronales.\nComunicar los resultados de proyectos de aprendizaje automático tanto a audiencias técnicas como no técnicas.\nAplicar buenas prácticas para la preparación de datos y la resolución de problemas en flujos de trabajo con redes neuronales.",
     "crumbs": [
       "Syllabus"
     ]
@@ -181,17 +181,14 @@
     "href": "course-links.html",
     "title": "Useful links",
     "section": "",
-    "text": "RStudio containers\n🔗 on Duke Container Manager\n\n\nCourse GitHub organization\n🔗 on GitHub\n\n\nDiscussion forum\n🔗 on Sakai\n\n\nLecture streaming and recordings\n🔗 on Panopto\n\n\nGradebook\n🔗 on Sakai\n\n\nVirtual meetings\n🔗 on Sakai",
-    "crumbs": [
-      "Useful links"
-    ]
+    "text": "RStudio containers\n🔗 on Duke Container Manager\n\n\nCourse GitHub organization\n🔗 on GitHub\n\n\nDiscussion forum\n🔗 on Sakai\n\n\nLecture streaming and recordings\n🔗 on Panopto\n\n\nGradebook\n🔗 on Sakai\n\n\nVirtual meetings\n🔗 on Sakai"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "INF395 - Redes neuronales y Deep Learning",
+    "title": "Redes neuronales y Deep Learning",
     "section": "",
-    "text": "Fecha\nTópico\nMaterial\n\n\n\n\n08-08\nIntroducción\n🖥️\n\n\n\nModelos lineales para regresión y clasificación\n\n\n\n\nRed neuronal feedforward\n\n\n\n\nBackpropagation / learning algorithms\n\n\n\n\nRedes neuronales convolucionales\n\n\n\n\nRedes Difusas\n\n\n\n\nGraph neural networks\n\n\n\n\nRedes neuronales recurrentes\n\n\n\n\nTransformers\n\n\n\n\nProcesos Gaussianos\n\n\n\n\nTransfer learning\n\n\n\n\nRedes KAN",
+    "text": "Fecha\nTópico\nMaterial\nProyectos\nTareas\n\n\n\n\n08-08\nIntroducción\n🖥️\n\n\n\n\n15-08\nModelos lineales para regresión y clasificación\n\n\n\n\n\n22-08\nRed neuronal feedforward\n\nEnvío temas\n\n\n\n29-08\nBackpropagation / learning algorithms\n\n\nTarea 1\n\n\n05-09\nClase suspendida\n\n\n\n\n\n12-09\nRedes neuronales convolucionales\n\n\nEntrega Tarea 1  Tarea 2\n\n\n19-09\nVacaciones de fiestas patrias\n\n\n\n\n\n26-09\nRedes Difusas\n\n\n\n\n\n03-10\nGraph neural networks\n\nEntrega parcial\n\n\n\n10-10\nSemana sansana\n\n\n\n\n\n17-10\nRedes neuronales recurrentes\n\n\n\n\n\n24-10\nTransformers\n\n\n\n\n\n31-10\nProcesos Gaussianos\n\n\n\n\n\n07-11\nTransfer learning\n\n\n\n\n\n14-11\nRedes KAN\n\n\n\n\n\n21-11\n\n\nPresentaciones de alumnos\n\n\n\n28-11\n\n\nPresentaciones de alumnos",
     "crumbs": [
       "Clases"
     ]

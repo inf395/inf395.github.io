@@ -33,9 +33,9 @@ title: "Syllabus"
 
 ## Objetivos
 
-Al finalizar el semestre, serás capaz de:
+Al finalizar el semestre, será capaz de:
 
--   Comprender los conceptos fundamentales detrás de los principales modelos de redes neuronales.
+-   Comprender los conceptos fundamentales detrás de los principales modelos de redes neuronales y deep learning.
 -   Resolver problemas de aprendizaje automático utilizando redes neuronales.
 -   Implementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.
 -   Analizar e interpretar los resultados de modelos de redes neuronales.

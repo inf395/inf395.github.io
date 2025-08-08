@@ -5,7 +5,7 @@ project:
 website:
   page-navigation: true
   title: "INF395"
-  description: "INF395 - Redes Neuronales y Deep Learning."
+  description: "Redes Neuronales y Deep Learning."
   site-url: "https://inf395.github.io/website/"
 
   # repo-url: https://github.com/sta210-s22/website
@@ -56,8 +56,8 @@ website:
         text: Evaluaciones
       - href: course-team.qmd
         text: Equipo docente
-      - href: course-links.qmd
-        text: Useful links
+      # - href: course-links.qmd
+      #   text: Useful links
       # - section: "Computing"
       #   contents:
       #     - href: computing-access.qmd

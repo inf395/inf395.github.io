@@ -30,14 +30,17 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
   background-position: 1em 0.5em;
 }
 
-$my-red:   #e53935;
-$my-gray:  #757575;
-$my-green: #43a047;
+$my-red:   rgb(229, 57, 53);
+$my-gray:  rgb(117, 117, 117);
+$my-green: rgb(67, 160, 71);
+$my-blue: rgb(40, 130, 210);
 
 .my-red   { color: $my-red; }
 .my-gray  { color: $my-gray; }
 .my-green { color: $my-green; }
+.my-blue { color: $my-blue; }
 
 .bg-red   { background-color: $my-red; color: white; }
 .bg-gray  { background-color: $my-gray; color: white; }
 .bg-green { background-color: $my-green; color: white; }
+.bg-blue { background-color: $my-blue; color: white; }
