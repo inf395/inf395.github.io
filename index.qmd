@@ -7,9 +7,9 @@ tbl-colwidths: [5,20,10,10,10]
 | Fecha | Tópico | Material | Proyectos | Tareas |
 |:-------------:|---------------|---------------|---------------|---------------|
 | 08-08 | Introducción | [🖥️](/recursos/01-intro-ml-dl.pdf "slides"){aria-label="slides 01"} |  |  |
-| 15-08 | Modelos lineales para regresión y clasificación |  |  |  |
-| [<strong>22-08</strong>]{.my-green} | Red neuronal feedforward |  | [<strong>Envío temas</strong>]{.my-green} |  |
-| [<strong>29-08</strong>]{.my-blue} | Backpropagation / learning algorithms |  |  | [<strong>Tarea 1</strong>]{.my-blue} |
+| [<strong>15-08</strong>]{.my-red} | [<strong>Feriado</strong>]{.my-red} |  |  |  |
+| 22-08 | Modelos lineales para regresión y clasificación <br> Red neuronal feedforward |  |  |  |
+| [<strong>29-08</strong>]{.my-blue} | Backpropagation / learning algorithms |  | [<strong>Envío temas</strong>]{.my-green} | [<strong>Tarea 1</strong>]{.my-blue} |
 | [<strong>05-09</strong>]{.my-red} | [<strong>Clase suspendida</strong>]{.my-red} |  |  |  |
 | [<strong>12-09</strong>]{.my-blue} | Redes neuronales convolucionales |  |  | [<strong>Entrega Tarea 1 <br> Tarea 2</strong>]{.my-blue} |
 | [<strong>19-09</strong>]{.my-red} | [<strong>Vacaciones de fiestas patrias</strong>]{.my-red} |  |  |  |
