@@ -1,6 +1,6 @@
 # Sitio para INF395
 
-🔗 https://inf395.github.io/website/
+🔗 https://inf395.github.io/
 
 <hr> 
 
