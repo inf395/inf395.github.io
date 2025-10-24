@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Redes neuronales y Deep Learning – INF395</title>
+<title>Tarea 3 – INF395</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,28 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./course-evaluations.html" rel="next">
-<link href="./course-syllabus.html" rel="prev">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8db6229841abb9e4445c572ff9004143.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-b4bc9c8e236b39bc2454cf2e05f6239e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-8db6229841abb9e4445c572ff9004143.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-8db6229841abb9e4445c572ff9004143.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-b4bc9c8e236b39bc2454cf2e05f6239e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-8db6229841abb9e4445c572ff9004143.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -74,8 +72,13 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Redes neuronales y Deep Learning – INF395">
+<meta property="og:title" content="Tarea 3 – INF395">
+<meta property="og:description" content="Modelos CNN pre-entrenados y transformers">
+<meta property="og:image" content="https://inf395.github.io/website/tareas/lorenzo-cat.png">
 <meta property="og:site_name" content="INF395">
+<meta property="og:image:alt" content="Alternative text">
+<meta property="og:image:height" content="734">
+<meta property="og:image:width" content="556">
 </head>
 
 <body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -249,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Clases</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Tarea 3</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -263,8 +266,8 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main">
     <a href="https://github.com/aavelozb" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
@@ -280,25 +283,25 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-syllabus.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-syllabus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Syllabus</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clases</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-evaluations.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-evaluations.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Evaluaciones</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-team.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-team.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Equipo docente</span></a>
   </div>
 </li>
@@ -307,16 +310,23 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#instrucciones-para-la-entrega." id="toc-instrucciones-para-la-entrega." class="nav-link active" data-scroll-target="#instrucciones-para-la-entrega.">Instrucciones para la entrega.</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Redes neuronales y Deep Learning</h1>
+<h1 class="title">Tarea 3</h1>
+<p class="subtitle lead">Modelos CNN pre-entrenados y transformers</p>
 </div>
 
 
@@ -333,163 +343,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="column-screen-inset-right">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 5%">
-<col style="width: 20%">
-<col style="width: 10%">
-<col style="width: 10%">
-<col style="width: 10%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Fecha</th>
-<th>Tópico</th>
-<th>Material</th>
-<th>Proyectos</th>
-<th>Tareas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">08-08</td>
-<td>Introducción</td>
-<td><a href="./recursos/01-intro-ml-dl.pdf" aria-label="slides 01" title="slides">slides</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><span class="my-red"><strong>15-08</strong></span></td>
-<td><span class="my-red"><strong>Feriado</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">22-08</td>
-<td>Modelos lineales para regresión y clasificación</td>
-<td><a href="./recursos/02-linear-models.pdf" aria-label="slides 02" title="slides">slides</a><br><a href="./ejemplos/linreg.html">🖥️</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><span class="my-blue"><strong>29-08</strong></span></td>
-<td>Red neuronal feedforward / Backpropagation learning</td>
-<td><a href="./recursos/03-fann.pdf" aria-label="slides 03" title="slides">slides - fann</a><br><a href="./recursos/03-recsys-embeddings.pdf" aria-label="slides 03" title="slides">slides - recsys</a><br><a href="./ejemplos/ExpRecSys.html">🖥️ - sistemas recomendación y embeddings</a></td>
-<td><span class="my-green"><strong>Envío temas</strong></span></td>
-<td><span class="my-blue"><strong><a href="./tareas/tarea1.html">Tarea 1</a></strong></span></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="my-red"><strong>05-09</strong></span></td>
-<td><span class="my-red"><strong>Clase suspendida</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">12-09</td>
-<td>Redes neuronales convolucionales</td>
-<td><a href="./recursos/04-CNN.pdf" aria-label="slides 03" title="slides">slides</a><br><a href="./ejemplos/cnn-01-conv.html">🖥️ - conv</a><br><a href="./ejemplos/cnn-02-pretr.html">🖥️ - modelos preentrenados</a><br><a href="./ejemplos/cnn-03-design.html">🖥️ - arquitecturas</a><br><a href="./ejemplos/cnn-04-fullycnn.html">🖥️ - fully convolutional</a><br><a href="./ejemplos/cnn-05-cnn-class-loc.html">🖥️ - object localization</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="my-red"><strong>19-09</strong></span></td>
-<td><span class="my-red"><strong>Vacaciones de fiestas patrias</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">26-09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="my-green"><strong>03-10</strong></span></td>
-<td></td>
-<td></td>
-<td><span class="my-green"><strong>Entrega parcial</strong></span></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><span class="my-blue"><strong>10-10</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
-<td><span class="my-blue"><strong><a href="./tareas/tarea2.html">Tarea 2</a></strong></span></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">17-10</td>
-<td>Redes difusas</td>
-<td><a href="./recursos/05-fuzzy-logic.pdf" aria-label="slides 03" title="slides">slides</a><br><a href="./ejemplos/Mamdani_interactivo.html">🖥️ - Mamdani</a><br><a href="./ejemplos/Mamdani_pytorch.html">🖥️ -Mamdani-pytorch</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><span class="my-blue"><strong>24-10</strong></span></td>
-<td>Redes neuronales recurrentes y Transformers</td>
-<td><a href="./recursos/06-rnn-lstm.pdf" aria-label="slides 06" title="slides">slides rnn-lstm</a><br><a href="./recursos/07-transformers.pdf" aria-label="slides 07" title="slides">slides transformers</a><br><a href="./recursos/07-NLP-practice.pdf" aria-label="slides 07-2" title="slides">slides transformers NLP</a><br><a href="./ejemplos/gpt-trained.zip">🖥️ - ejemplo GPT</a></td>
-<td></td>
-<td><span class="my-blue"><strong><a href="./tareas/tarea3.html">Tarea 3</a></strong></span></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="my-blue"><strong>07-11</strong></span></td>
-<td>Redes KAN y Graph neural networks</td>
-<td></td>
-<td></td>
-<td>Tarea 4</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">14-11</td>
-<td>Procesos Gaussianos</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="my-green"><strong>21-11</strong></span></td>
-<td></td>
-<td></td>
-<td><span class="my-green"><strong>Entrega escrito<br>Presentaciones de alumnos</strong></span></td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><span class="my-green"><strong>28-11</strong></span></td>
-<td></td>
-<td></td>
-<td><span class="my-green"><strong>Presentaciones de alumnos</strong></span></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<ol type="1">
+<li>Tomar alguno de los ejemplos vistos en clases donde se usan CNNs y reimplementarlo usando la librería Pytorch.</li>
+<li>Implementar un programa que permita hacer la evaluación de un modelo preentrenado para predecir objetos en imágenes. Ejemplo:</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="lorenzo-cat.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%" data-fig-pos="h" alt="Alternative text"></p>
+</figure>
 </div>
-<!-- 08-08-2025 Introducción        
-15-08-2025  Modelos lineales para regresión y clasificación     
-22-08-2025  Red neuronal feedforward    Definición tema T1
-29-08-2025  Backpropagation / learning algorithms       
-05-09-2025  Clases suspendidas      
-12-09-2025  Redes neuronales convolucionales        T2
-19-09-2025          
-26-09-2025  Redes Difusas       
-03-10-2025  Redes neuronales recurrentes    Entrega parcial T3
-10-10-2025  Semana sansana      
-17-10-2025  Transformers        
-24-10-2025  Procesos Gaussianos     
-31-10-2025  Transfer learning       
-07-11-2025  Redes KAN       
-14-11-2025      Entrega final   T4
-21-11-2025  Presentaciones de proyectos     
-28-11-2025  Presentaciones de proyectos     
-05-12-2025  Examen - Notas SIGA     
-12-12-2025          
-19-12-2025          
-26-12-2025           -->
+<p><strong>Bonus:</strong> Explicar e implementar Grad-cam.</p>
+<ol start="3" type="1">
+<li>Tomar el ejemplo de red transformer entregado en clases. Hacer un jupyter notebook explicando paso a paso el algoritmo. Entrenarlo con texto en español.</li>
+</ol>
+<section id="instrucciones-para-la-entrega." class="level2">
+<h2 class="anchored" data-anchor-id="instrucciones-para-la-entrega.">Instrucciones para la entrega.</h2>
+<ul>
+<li>En la fecha correspondiente debe entregar tres jupyter notebooks (uno para cada pregunta) con las soluciones de los ejercicios propuestos. Exporte los jupyter notebooks al formato pdf con las salidas de las celdas visibles.</li>
+<li>Los archivos debe tener nombres con la estructura <em>apellido_nombre_ej1_tarea3.ipynb</em> y <em>apellido_nombre_ej1_tarea3.pdf</em>.</li>
+<li><span class="my-red">No respetar estas instrucciones significarán una penalización en su nota de 10 puntos.</span></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -904,18 +780,6 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="./course-syllabus.html" class="pagination-link" aria-label="Syllabus">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Syllabus</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="./course-evaluations.html" class="pagination-link" aria-label="Evaluaciones">
-        <span class="nav-page-text">Evaluaciones</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
